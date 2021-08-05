@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tchallaalbert
 - 👀 I’m interested in Machine learning and Data science
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning  python
 - 💞️ I’m looking to collaborate on any pojects that is machine learning and Data science related
 - 📫 How to reach me  at tchallaalbert101@gmail.com
 
